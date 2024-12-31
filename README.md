@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **Deep Learning and Advanced Data Visualization**
 - 💬 Ask me about **Data Science, Machine Learning, and Python**
-- 📫 How to reach me **your.email@example.com**
+- 📫 How to reach me **naufalahmdd@gmail.com**
 - ⚡ Fun fact: **I love analyzing movie datasets to find trends in storytelling!**
 
 ---
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AHMADNAUFAL&show_icons=true&theme=dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark&hide_border=true" />
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/Ahmad Naufal" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-naufal-a729b9250/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://twitter.com/USERNAME" target="_blank">
